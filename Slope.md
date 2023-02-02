@@ -109,7 +109,7 @@ Used to add:
 
 1. Faster setup
 1. Removal of barriers to entry
-1. Lower level of PCI Compliance required - Payment Card Industry Data Security Standard (PCI DSS)
+1. Lower level of [PCI Compliance](https://www.pcicomplianceguide.org/faq/#1) required - [Payment Card Industry Data Security Standard (PCI DSS)](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
 
 ## Buyer web app
 
@@ -131,7 +131,7 @@ Not sure if this exists. Seller businesses may only be able to interact with Slo
 - What percentage of B2B businesses have an online checkout?
 - What percentage of B2B businesses' customers prefer to pay via an online checkout?
 - Could we initally target offline businesses
-  - Would there be a ny benefit in doing that?
+   - Would there be any benefit in doing that?
 
 ## Conclusions
 
