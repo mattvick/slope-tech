@@ -14,6 +14,7 @@ Several moving parts including:
 1. [Third parties payment providers](#third-parties-payment-providers)
 1. [Buyer web app](#buyer-web-app)
 1. [Seller web app](#seller-web-app)
+1. [Support](#support)
 
 **Jump to:**
 
@@ -125,6 +126,15 @@ Probably contains:
 ## Seller web app
 
 Not sure if this exists. Seller businesses may only be able to interact with Slope via the [Public API](#public-api)
+
+## Customer support
+
+- support@slope.so
+- 1-202-977-3324
+
+They probably use some third party customer services software like [Zendesk](https://www.zendesk.com/) to manage customer support enquiries.
+
+I didn't see any chat on their [marketing website](#marketing-website), but they may have this in their [buyer web app](#buyer-web-app).
 
 ## Questions
 
