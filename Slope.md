@@ -14,7 +14,7 @@ Several moving parts including:
 1. [Third parties payment providers](#third-parties-payment-providers)
 1. [Buyer web app](#buyer-web-app)
 1. [Seller web app](#seller-web-app)
-1. [Support](#support)
+1. [Customer support](#customer-support)
 
 **Jump to:**
 
