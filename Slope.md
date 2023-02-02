@@ -45,6 +45,8 @@ https://demo.slope.so/
 
 A mockup of a seller business website used to demo the Slope payment flow.
 
+They have opensourced their demo website and [host this on GitHub](https://github.com/Slope-Tech/demo) so seller businesses can use this to help them get started with Slope integration.
+
 ## Developer documentation
 
 https://developers.slope.so/docs
