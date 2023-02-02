@@ -110,7 +110,7 @@ Probably contains:
 - A dashboard - with an overview of payments
 - Individual payment view with calls to action
 
-# Seller web app
+## Seller web app
 
 Not sure if this exists. Seller businesses may only be able to interact with Slope via the [Public API](#public-api)
 
