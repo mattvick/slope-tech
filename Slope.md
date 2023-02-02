@@ -5,6 +5,7 @@
 Several moving parts including:
 
 1. [Marketing website](#marketing-website)
+1. [Demo website](#demo-website)
 1. [Developer documentation](#developer-documentation)
 1. [Public API](#public-api)
 1. [Snippet code](#snippet-code)
@@ -13,6 +14,11 @@ Several moving parts including:
 1. [Third parties payment providers](#third-parties-payment-providers)
 1. [Buyer web app](#buyer-web-app)
 1. [Seller web app](#seller-web-app)
+
+**Jump to:**
+
+- [Questions](#questions)
+- [Conclusions](#conclusions)
 
 ## How the payment flow works
 
@@ -31,6 +37,12 @@ There's a bit of work involved. Most probably requiring a software engineer, rat
 https://slopepay.com/
 
 You've seen it. It outlines the Slope business proposition.
+
+## Demo website
+
+https://demo.slope.so/
+
+A mockup of a seller business website used to demo the Slope payment flow.
 
 ## Developer documentation
 
@@ -79,13 +91,13 @@ A fullscreen overlay with multiple steps to complete the payment.
 - Authentication (Customer login)
 - Integration with [third parties payment providers](#third-parties-payment-providers)
 
-Lots of forms - FYI _forms kinda suck_ - they are tedious and time-consuming due to:
+Contains forms for data entry - FYI _forms kinda suck_ - they are tedious and time-consuming due to:
 
 - Validation
 - Error states
 - Multi step state management
 
-### Third parties payment providers
+## Third parties payment providers
 
 Used to add:
 
@@ -118,3 +130,12 @@ Not sure if this exists. Seller businesses may only be able to interact with Slo
 
 - What percentage of B2B businesses have an online checkout?
 - What percentage of B2B businesses' customers prefer to pay via an online checkout?
+- Could we initally target offline businesses
+  - Would there be a ny benefit in doing that?
+
+## Conclusions
+
+- Nothing is beyond my knowledge and experience or anything that I couldn't figure out
+- There are many moving parts
+- Would be too time-consuming for a single engineer to build all these parts
+- Likely best approach would be to raise investment and then build a team of engineers
