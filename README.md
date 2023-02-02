@@ -1,2 +1,4 @@
-# slope-tech
-Slope tech research
+# Tech research
+
+- [Slope](./Slope.md)
+
