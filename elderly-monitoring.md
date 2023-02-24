@@ -1,16 +1,5 @@
 # Elderly monitoring
 
-- https://allswellalert.com/blog/technologies-to-monitor-elderly-parents
-
-- emergency alerts
-- panic button
-- monitoring of vital health signs
-- GPS tracking
-- Monitor sleep patterns
-- Monitor medication usage
-- call 911 automatically in an emergency
-- video feed
-
 ## Types of monitors
 
 - [Video Monitors](#video-monitors) - Passive monitoring via video feed
@@ -18,6 +7,14 @@
 - [Wearables](#wearables) - for more mobile seniors, remote monitoring, GPS-enabled, send location information, fall detection, transmit an SOS signal in an emergency
 - [Fall Monitor](#fall-monitor)
 - [Inactivity Monitoring](#inactivity-monitoring) - used in hospitals and specialised nursing homes - Attached to the patient's body and monitors vital signs (pulse, blood oxygen saturation, body temperature, breathing movements, etc.)
+- [Monitor sleep patterns](#monitor-sleep-patterns)
+- [Monitor medication usage](#monitor-medication-usage)
+
+## Other features
+
+- Emergency alerts
+- Panic button
+- Call 911 automatically in an emergency
 
 ### Video Monitors
 
@@ -63,8 +60,13 @@ Both timeliness of response and effectiveness of treatment are improved. Since i
 
 To summarize, in hospitals, inactivity monitoring is the part of patient control systems that helps to learn in time about the medical emergency without the patient's active signal.
 
+### Monitor sleep patterns
+
+### Monitor medication usage
+
 ### Monitoring station
 
 - data from devices visualised on dashboards
 - Clinicians can generate reports for medical histories and adjust treatment plans flexibly based on the dynamical change tracking
 
+Source https://allswellalert.com/blog/technologies-to-monitor-elderly-parents
