@@ -1,6 +1,6 @@
 # Elderly monitoring
 
-## Types of monitors
+## Types of monitoring
 
 - [Video Monitors](#video-monitors) - Passive monitoring via video feed
 - [Motion Sensors](#motion-sensors) - Detect movements in to and out of different rooms 
