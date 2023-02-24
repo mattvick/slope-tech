@@ -4,7 +4,7 @@
 
 - [Video Monitors](#video-monitors) - Passive monitoring via video feed
 - [Motion Sensors](#motion-sensors) - Detect movements in to and out of different rooms 
-- [Wearables](#wearables) - for more mobile seniors, remote monitoring, GPS-enabled, send location information, fall detection, transmit an SOS signal in an emergency
+- [Wearables](#wearables) - for more mobile seniors, remote monitoring, GPS tracking, send location information, fall detection, transmit an SOS signal in an emergency
 - [Fall Monitor](#fall-monitor)
 - [Inactivity Monitoring](#inactivity-monitoring) - used in hospitals and specialised nursing homes - Attached to the patient's body and monitors vital signs (pulse, blood oxygen saturation, body temperature, breathing movements, etc.)
 - [Monitor sleep patterns](#monitor-sleep-patterns)
